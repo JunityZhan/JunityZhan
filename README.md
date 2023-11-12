@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://www.junityz.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+</p>
 
-<!--
-**JunityZhan/JunityZhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Linkang(Junity) Zhan</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/JunityZhan"><img src="https://github-readme-stats.vercel.app/api?username=JunityZhan&hide_border=true&show_icons=true" alt="JunityZhan's github stats"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong><a href="https://www.junityz.com">Official Website</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/LinkangZhan">LinkedIn</a></strong> |
+  <strong><a href="https://huggingface.co/Junity">HuggingFace</a></strong>
+</p>
+
+<p align="center">❤ I'm currently working in AutoGame on Large Language Model Agent Development.</p>
