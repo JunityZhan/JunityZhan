@@ -19,4 +19,8 @@
 <p align="center">❤ I'm currently an undergraduate at Case Western Reserve University</p>
 <p align="center">❤ I'm currently working in AutoGame on Large Language Model Agent Development.</p>
 
+------
+
+### Visitor Counts:
+
 <img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
