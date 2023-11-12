@@ -23,4 +23,4 @@
 
 ### Visitor Counts:
 
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+<img src="https://profile-counter.glitch.me/JunityZhan/count.svg" />
