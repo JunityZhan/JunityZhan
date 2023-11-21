@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Linkang(Junity) Zhan</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=JunityZhan&count_private=true&show_icons=true&theme=radical" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JunityZhan&count_private=true&show_icons=true&theme=radical" />
 <img width="44%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunityZhan&theme=radical" />
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunityZhan&theme=monokai" />
 
@@ -24,3 +24,11 @@
 ### Visitor Counts:
 
 <img src="https://profile-counter.glitch.me/JunityZhan/count.svg" />
+
+# 📞 ❅ Contact ❅
+
+```text
+Email: lxz801@case.edu
+Linkedin: https://www.linkedin.com/in/linkangzhan
+Github: @JunityZhan
+```
