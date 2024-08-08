@@ -26,8 +26,7 @@
   <strong><a href="https://huggingface.co/Junity">HuggingFace</a></strong>
 </p>
 
-<p align="center">❤ I'm currently an undergraduate at Case Western Reserve University</p>
-<p align="center">❤ I'm currently working in AutoGame on Large Language Model Agent Development.</p>
+<p align="center">❤ I'm currently building a startup, and we are hiring, welcome to yomio.ai.</p>
 
 ------
 
