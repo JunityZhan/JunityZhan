@@ -10,7 +10,7 @@
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JunityZhan&count_private=true&show_icons=true&theme=radical" />
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunityZhan&theme=monokai" />
 
-# 📕 ❀ Languages ❀
+#  📕 ❀ Languages ❀
 
 <code><img height="30" width="30" src="python.png"></code>
 <code><img height="30" width="30" src="c.svg"></code>
