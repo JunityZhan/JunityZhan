@@ -37,6 +37,6 @@
 # 📞 ❅ Contact ❅
 
 ```text
-Email: lxz801@case.edu
+Email: junity@yomio.ai
 Github: @JunityZhan
 ```
