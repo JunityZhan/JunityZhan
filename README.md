@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Linkang(Junity) Zhan</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+<h1 align="center">Welcome to my GitHub profile~ QwQ</h1>
 <h1 align="center"><-Please Click Left Button to Follow Me! QAQ</h1>
 <img width="44%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunityZhan&theme=radical" />
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JunityZhan&count_private=true&show_icons=true&theme=radical" />
