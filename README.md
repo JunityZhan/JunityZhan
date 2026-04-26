@@ -3,7 +3,7 @@
 </p>
 
  
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Junity</a>!</h1>
+<h1 align="center">Hi, I'm Junity!</h1>
 <h1 align="center">Welcome to my GitHub profile~ QwQ</h1>
 <h1 align="center"><-Please Click Left Button to Follow Me! QAQ</h1>
 <img width="44%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunityZhan&theme=radical" />
@@ -20,17 +20,11 @@
 <code><img height="30" width="30" src="unreal.svg"></code>
 <code><img height="30" width="30" src="java.svg"></code>
 
-<p align="center">
-  <strong><a href="https://www.junityz.com">Official Website</a></strong> |
-  <strong><a href="https://huggingface.co/Junity">HuggingFace</a></strong>
-</p>
-
 ------
 
 # 📞 ❅ Contact ❅
 
 ```text
 Email: junity@perchy.ai
-Github: @JunityZhan
 Phone: +1 2165512779
 ```
